@@ -7,13 +7,11 @@
 
 - 📝 Eu escrevo artigos sobre análise de dados associados à neurociências, confira alguns em: [https://scholar.google.com/citations?user=gkvGNR4AAAAJ](https://scholar.google.com/citations?user=gkvGNR4AAAAJ)
 
-- 💬 Me pergunte sobre **R, SQL, Python, Excel e estatística**
+- 💬 Me pergunte sobre **R, SQL, Python, Julia, Excel e estatística**
 
 - 📫 Você me acha através do e-mail: **yespsych@gmail.com**
 
 - 📄 Conheça algumas das minhas experiências: [https://www.linkedin.com/in/yuridesantana/](https://www.linkedin.com/in/yuridesantana/)
-
-- ⚡ Fun fact - **Eu amo pirografia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
