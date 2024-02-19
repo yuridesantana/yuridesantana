@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Yuri Santana</h1>
-<h3 align="center">Apaixonado por ciência e análise de dados</h3>
+<h3 align="center">Apaixonado por dados</h3>
 
 - 🔭 Atualmente estou estudando ciência e análise de dados na **Data Science Academy**
 
