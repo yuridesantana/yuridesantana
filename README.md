@@ -13,6 +13,9 @@
 
 - 📄 Conheça algumas das minhas experiências: [https://www.linkedin.com/in/yuridesantana/](https://www.linkedin.com/in/yuridesantana/)
 
+## Portfólio - Você pode conferir alguns dos meus projetos aqui:
+- [Projeto de Classificação/](https://github.com/yuridesantana/Projeto-Classificacao/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yuridesantana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuridesantana/" height="30" width="40" /></a>
