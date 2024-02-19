@@ -14,7 +14,7 @@
 - 📄 Conheça algumas das minhas experiências: [https://www.linkedin.com/in/yuridesantana/](https://www.linkedin.com/in/yuridesantana/)
 
 ## Portfólio - Você pode conferir alguns dos meus projetos aqui:
-- [Projeto de Classificação/](https://github.com/yuridesantana/Projeto-Classificacao/)
+- [Projeto de Classificação na área da Saúde](https://github.com/yuridesantana/Projeto-Classificacao/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
