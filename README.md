@@ -11,7 +11,7 @@
 
 - 💬 Me pergunte sobre **R, SQL, Python, Julia, Excel e estatística**
 
-- 📫 Você me acha através do e-mail: **yespsych@gmail.com**
+- 📫 Você pode me contatar através do e-mail: **yespsych@gmail.com**
 
 - 📄 Conheça algumas das minhas experiências: [Link do meu Linkedin](https://www.linkedin.com/in/yuridesantana/)
 
