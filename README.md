@@ -1,17 +1,19 @@
 <h1 align="center">Olá 👋, eu sou Yuri Santana</h1>
 <h3 align="center">Apaixonado por dados</h3>
 
+- Graduado em Ciência de dados, mestre em neuropsicologia. Experiência de 10 anos de pesquisa com anaálise quantitativa de dados em neurociências.
+
 - 🔭 Atualmente estou estudando ciência e análise de dados na **Data Science Academy**
 
 - 🌱 Atualmente estou aprendendo conteúdos relacionados a **Machine Learning e Spark**
 
-- 📝 Eu escrevo artigos sobre análise de dados associados à neurociências, confira alguns em: [https://scholar.google.com/citations?user=gkvGNR4AAAAJ](https://scholar.google.com/citations?user=gkvGNR4AAAAJ)
+- 📝 Eu escrevo artigos sobre análise de dados associados à neurociências, confira alguns em: [Link do Google Scholar](https://scholar.google.com/citations?user=gkvGNR4AAAAJ)
 
 - 💬 Me pergunte sobre **R, SQL, Python, Julia, Excel e estatística**
 
 - 📫 Você me acha através do e-mail: **yespsych@gmail.com**
 
-- 📄 Conheça algumas das minhas experiências: [https://www.linkedin.com/in/yuridesantana/](https://www.linkedin.com/in/yuridesantana/)
+- 📄 Conheça algumas das minhas experiências: [Link do meu Linkedin](https://www.linkedin.com/in/yuridesantana/)
 
 ## Portfólio - Você pode conferir alguns dos meus projetos aqui:
 - [Projeto de Classificação na área da Saúde](https://github.com/yuridesantana/Projeto-Classificacao/)
